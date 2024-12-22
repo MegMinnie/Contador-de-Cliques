@@ -6,8 +6,18 @@
     <img src="http://img.shields.io/static/v1?label=LICENSE-MIT&message=License&color=yellow&style=for-the-badge&logo=LICENSE-MIT"/> 
     <br>
     <br>
-<p>Este projeto é um contador de cliques interativo, desenvolvido com HTML, CSS e JavaScript. Ele permite aumentar, diminuir ou zerar o valor exibido. Além disso, possui um design responsivo, garantindo compatibilidade e uma experiência consistente em diferentes dispositivos.</p>>
+<p>Este projeto é um contador de cliques interativo, desenvolvido com HTML, CSS e JavaScript. Ele permite aumentar, diminuir ou zerar o valor exibido. Além disso, possui um design responsivo, garantindo compatibilidade e uma experiência consistente em diferentes dispositivos.</p>
 
   <p>Desenvolvido por <a target="_blank" rel="external" href="https://github.com/MegMinnie/"><strong>Mirele Oliveira da Silva</strong></a><p>
  </p></p>
  </div>
+
+<div align="left">
+  
+  ## Como Acessar a Aplicação
+<p>Acesse a aplicação por meio do link: <a href="https://megminnie.github.io/Contador-de-Cliques/
+"_blank">clique aqui</a></p>
+
+## Screenshots
+![contador ](assets/cont.png)
+</div>
